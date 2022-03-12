@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+    
+    <title>Cadastro</title>
+        <!-- Principal CSS do Bootstrap -->
+    <link href="./bootstrap/dist/css/bootstrap.css" rel="stylesheet">
+        <!-- Estilos customizados para esse template -->
+    <link href="./css/loginStyle.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/bg.css">
+</head>
+<body class="text-center">
+    <nav class="menu">
+        <a href="index.html"><button class="btn-block btn btn-light col-md-12 text-success">Voltar a página inicial</button></a>
+        <a href="index.html"><button class="btn-block btn btn-light col-md-12 text-success">Listar medicamentos</button></a>
+    </nav>
+
+    <form class="form-signin">
+        <img class="mb-4" src="./img/logo.png" alt="" width="72" height="72">
+        <h1 class="h3 mb-4 font-weight-normal text-light">Cadastre o medicamento</h1>
+        <label for="inputBula" class="sr-only">Bula</label>
+        <input type="text" id="inputBula" class="form-control" placeholder="Bula" required autofocus>
+        <label for="inputName" class="sr-only">Nome</label>
+        <input type="text" id="inputName" class="form-control" placeholder="Nome" required autofocus>
+        <label for="inputQuantidade" class="sr-only">Quantidade em estoque</label>
+        <input type="number" id="inputQuantidade" class="form-control" placeholder="Quantidade" required>
+        <label for="inputReceita" class="sr-only">Receita</label>
+        <input type="text" id="inputReceita" class="form-control" placeholder="Receita" required>
+        <button class="btn btn-lg btn-success btn-block" type="submit">Cadastrar</button>
+    </form>
+
+    <footer class="rodape">
+        &#169Divina Luz - 2022
+        <ul>
+            <li><img src="img/Instagram Circle.png" alt=""></li>
+            <li><img src="img/Envelope.png" alt=""></li>
+            <li><img src="img/WhatsApp.png" alt=""></li>
+        </ul>
+    </footer>
+</body>
+</html>
