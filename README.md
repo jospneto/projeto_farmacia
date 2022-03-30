@@ -7,3 +7,14 @@ Criação de uma API com Spring framework, Maven e padrões de projeto. A API ca
   * JPA (Hibernate)
   * MySQL
   * Postman
+
+## Tela do Spring
+![TelaSpring](https://user-images.githubusercontent.com/84688951/160877769-c6fc80c5-14b4-451c-8e96-7b6ade622558.png)
+
+## Tela da API
+![TelaSpring2](https://user-images.githubusercontent.com/84688951/160877961-82ea2550-f32f-46a4-94ee-f24bbbd9cf9d.png)
+
+## Tela do Postman
+![TelaSpring3](https://user-images.githubusercontent.com/84688951/160878452-ac8f50eb-1172-4681-9774-65fe859e3069.png)
+
+
