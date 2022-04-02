@@ -5,7 +5,7 @@ Criação de uma API com Spring framework, Maven e padrões de projeto. A API ca
   * Java EE<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   * SpringTools e SpringFramework<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   * MySQL<img align="center" alt="JoseNeto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  * * JPA (Hibernate)
+  * JPA (Hibernate)
   * Postman
 ## Tela do Spring
 ![TelaSpring](https://user-images.githubusercontent.com/84688951/160877769-c6fc80c5-14b4-451c-8e96-7b6ade622558.png)
